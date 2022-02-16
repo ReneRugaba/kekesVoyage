@@ -12,12 +12,7 @@
 ```sh
 npm install
 ```
-
-## Run tests
-
-```sh
-npm run test
-```
+> if you want to generate or use readme-md-generator
 
 ## Author
 
